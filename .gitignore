@@ -11,6 +11,7 @@ npm-debug.log
 **/*.ngsummary.json
 coverage
 compiled
+dist
 docs/_book
 package-lock.json
 
